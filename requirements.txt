@@ -5,3 +5,6 @@ transformers
 pydub
 emotions
 SentimentAnalysis
+http
+generics
+status
