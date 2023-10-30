@@ -8,3 +8,4 @@ SentimentAnalysis
 http
 generics
 status
+SpeechRecognition
